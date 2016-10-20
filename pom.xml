@@ -5,9 +5,11 @@
     <artifactId>easylayout</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
+
     <organization>
-        <name>Vaadin Community</name>
+        <name>Verne Software</name>
     </organization>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <vaadin.version>7.7.0</vaadin.version>
@@ -20,15 +22,18 @@
         <Vaadin-License-Title>Apache License 2.0</Vaadin-License-Title>
         <Vaadin-Addon>${project.artifactId}-${project.version}.jar</Vaadin-Addon>
     </properties>
+
     <scm>
-        <url>git://github.com/your-github-account/easylayout.git</url>
-        <connection>scm:git:git://github.com/your-github-account/easylayout.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/your-github-account/easylayout.git</developerConnection>
+        <url>git://github.com/hofmanndavid/easylayout.git</url>
+        <connection>scm:git:git://github.com/hofmanndavid/easylayout.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/hofmanndavid/easylayout.git</developerConnection>
     </scm>
+
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/your-github-account/easylayout/issues</url>
+        <url>https://github.com/hofmanndavid/easylayout/issues</url>
     </issueManagement>
+
     <licenses>
         <license>
             <name>Apache 2</name>
@@ -36,6 +41,7 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+
     <dependencies>
         <dependency>
             <groupId>com.vaadin</groupId>
