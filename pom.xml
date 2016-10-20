@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.hdavid</groupId>
     <artifactId>easylayout</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <organization>
@@ -26,7 +26,7 @@
         <url>git://github.com/hofmanndavid/easylayout.git</url>
         <connection>scm:git:git://github.com/hofmanndavid/easylayout.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:/hofmanndavid/easylayout.git</developerConnection>
-      <tag>easylayout-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <issueManagement>
