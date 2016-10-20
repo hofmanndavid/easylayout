@@ -115,7 +115,7 @@ No.
 
 ####4. Pull requests?
 
-I could twist your mind enough and you got convinced then hell yeah! Please. Contributions are welcome!
+If I could twist your mind enough to convince you then hell yeah! Please. Contributions are welcome!
 
 ## Thanks
 
