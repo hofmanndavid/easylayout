@@ -101,19 +101,19 @@ If you need to use the api in a programatic way instances of `Collection` will b
 
 ## FAQ
 
-#####1. Are you completely crazy and lost all your humane traits and your faith in code higiene and think that mars really has no watter in it?
+####1. Are you completely crazy and lost all your humane traits and your faith in code higiene and think that mars really has no watter in it?
 
 Of course! It will take me more time to explain how much it helped me though. But this "guide" will be updated if you don't get it yet :)
 
-#####2. This is stupid! Are you aware of static evil and that your code is crap and totally NOT OOP?
+####2. This is stupid! Are you aware of static evil and that your code is crap and totally NOT OOP?
 
 Yes! For this particular case it is safe though, and you'll be fine using it "if" you like to have really short code for H/V Layouts.
 
-#####3. Are you serious?
+####3. Are you serious?
 
 No. 
 
-#####4. Pull requests?
+####4. Pull requests?
 
 I could twist your mind enough and you got convinced then hell yeah! Please. Contributions are welcome!
 
