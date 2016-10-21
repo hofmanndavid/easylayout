@@ -20,7 +20,6 @@ public class SimpleLayoutTestUI extends UI {
 
     Grid grid = new Grid(new BeanItemContainer<PersonDTO>(Arrays.asList(
             new PersonDTO("David Hofmann", new Date(1986, 07, 29), 30),
-            new PersonDTO("Daniel Sanchez", new Date(), 20),
             new PersonDTO("Vaadin Is Awesome!", new Date(), 10)
     )));
 
