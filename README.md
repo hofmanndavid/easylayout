@@ -126,5 +126,4 @@ If I could twist your mind enough to convince you then oh yeah! Please. Contribu
 ## Thanks
 - To [Matti Tahvonen](https://github.com/mstahv) for the [no-widgetset add-on archetype](https://github.com/viritin/archetype-vaadin-addon), although I am not sure he will be happy how I used his tool :)
 - To the #Vaadin Team for such awesome framework
-- To all those people doing crappy code for fixing my self-esteem.
 
